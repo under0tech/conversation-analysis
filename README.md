@@ -28,11 +28,11 @@ python main.py
 
 ## Threat Categories
 - Terrorism
-- Gang-Related
-- Hate Crime
+- Gang related
+- Hate crime
 - Weapon
 - Shooting
-- Car-Related
+- Car related
 - Violence
 - Criminal
 - Hostage
