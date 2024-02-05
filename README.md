@@ -19,7 +19,7 @@ This thread uses NLTK to analyze the text content from recognized messages, cate
 ## How to Use
 1. Install the required dependencies using `requirements.txt`.
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 2. Run the script, using `python main.py` command.
 ```bash
